@@ -16,7 +16,7 @@ This project explores NBA player and team performance from the 2024–2025 seaso
 
 - Source: [Kaggle 2024_25_NBA_Regular_Season_Stats]([https://www.kaggle.com/datasets/nathanlauga/nba-games](https://www.kaggle.com/datasets/vtrackstar/2024-25-nba-regular-season-stats?resource=download)) 
 - Format: Cleaned `.csv` files imported as SQL tables
-- Tables renamed in DB Browser for SQLite for accessibility
+- Tables: Relevant tables renamed and included in `/data/` 
  
 
-See `/example/` folder for raw inputs.
+See `/data/` folder for raw files.
