@@ -1,3 +1,5 @@
+-- Find the number of player transactions initiated by each team
+
 SELECT
   Team_From,
   COUNT(*) AS transaction_count
