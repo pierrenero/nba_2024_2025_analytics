@@ -20,8 +20,11 @@ This project explores NBA player and team performance from the 2024–2025 seaso
  
 
 See `/data/` folder for database/raw tables
+
 ---
 See `/queries/` folder for SQL code 
+
 ---
 See `/outputs/` folder for results of queries
+
 ---
