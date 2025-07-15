@@ -1,4 +1,4 @@
--- Find the number of player transactions initiated by each team
+-- Finds the number of player transactions completed by each team
 
 SELECT
   Team_From,
