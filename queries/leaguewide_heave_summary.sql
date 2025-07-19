@@ -1,4 +1,5 @@
 -- A summary of league-wide heaves over the season--
+
 SELECT
   SUM(HeavesAtt) AS Total_Heaves_Attempted,
   SUM(HeavesMd) AS Total_Heaves_Made,
