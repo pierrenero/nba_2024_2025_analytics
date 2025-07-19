@@ -1,3 +1,5 @@
+-- Finds heave stats by player --
+
 SELECT
   Player,
   SUM(HeavesAtt) AS Total_Heaves_Attempted,
