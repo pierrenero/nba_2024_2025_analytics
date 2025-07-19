@@ -28,3 +28,4 @@ See `/queries/` folder for SQL code
 See `/outputs/` folder for results of queries
 
 ---
+Adding an individual folder for each analysis with their own grouped files
