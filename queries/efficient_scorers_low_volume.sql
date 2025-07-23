@@ -19,7 +19,7 @@ JOIN
     Player_Advanced_Stats a ON s.Player = a.Player
 	
 WHERE 
-    s.G >= 20  -- Filters out fringe players
+    s.G >= 20  -- Filters out players with low sample size
     AND (CAST(s.FGA AS FLOAT) / s.G) <= 8  -- Low shot volume
     AND (CAST(s.MP AS FLOAT) / s.G) <= 25  -- Limited minutes
     AND a.[TS%] IS NOT NULL
