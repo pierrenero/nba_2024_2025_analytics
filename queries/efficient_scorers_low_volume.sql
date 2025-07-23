@@ -1,4 +1,4 @@
--- Pulls the top 25 players with elite scoring efficiency despite low usage --
+-- Pulls the top 25 players with elite scoring efficiency despite low usage ordered by TS% --
 
 SELECT 
     a.Player,
